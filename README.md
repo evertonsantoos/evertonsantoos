@@ -6,7 +6,6 @@ My name is Éverton Santos, Front-end developer from Brazil.
 ## Interests 👓
 
 I am a professional passionate about technology, committed to continuous learning and motivated to face innovative challenges. I am prepared to contribute significantly to projects that require web development experience and front-end skills, while continuing to expand my skill set to tackle new technological horizons.
-| Front-End | 
 
 
 ## Skills 🧰
