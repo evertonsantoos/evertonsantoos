@@ -28,6 +28,6 @@ Proactive | Disciplined | Organized | Critical | Problem solving
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonsantos-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertoncefal1@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Ferreira&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonsantoos&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonsantoos&layout=compact)](https://github.com/evertonsantoos/github-readme-stats)
