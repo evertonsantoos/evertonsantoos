@@ -2,16 +2,17 @@
 
 My name is Éverton Santos, Front-end developer from Brazil.
 
-
 ## Interests 👓
 
 I'm passionate about technology and I'm constantly learning, always looking for new challenges. I have experience in web development and front-end skills, and I'm dedicating myself to becoming a full stack developer, ready to contribute and grow in innovative projects.
 
-
 ## Skills 🧰
 
-Proactive | Disciplined | Organized | Critical | Problem solving
-
+- Proactive
+- Disciplined
+- Organized
+- Critical
+- Problem solving
 
 ## Technologies 👨‍💻
 
@@ -23,12 +24,12 @@ Proactive | Disciplined | Organized | Critical | Problem solving
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
+<div>
+  <a href="https://github.com/evertonsantoos">
+    <img width="450" height="170" align="center" alt="evertonsantoos" src="https://github-readme-stats.vercel.app/api?username=evertonsantoos&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/evertonsantoos">
+    <img align="center" height="170" alt="evertonsantoos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonsantoos&layout=compact&langs_count=5&count_private=true" />
+  </a>
+</div>
 
-## Get in Touch ✉️
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonsantos-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertoncefal1@gmail.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonsantoos&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonsantoos&layout=compact)](https://github.com/evertonsantoos/github-readme-stats)
