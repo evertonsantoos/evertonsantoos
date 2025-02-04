@@ -5,7 +5,7 @@ My name is Éverton Santos, Front-end developer from Brazil.
 
 ## Interests 👓
 
-I am a professional passionate about technology, committed to continuous learning and motivated to face innovative challenges. I am prepared to contribute significantly to projects that require web development experience and front-end skills, while continuing to expand my skill set to tackle new technological horizons.
+I'm passionate about technology and I'm constantly learning, always looking for new challenges. I have experience in web development and front-end skills, and I'm dedicating myself to becoming a full stack developer, ready to contribute and grow in innovative projects.
 
 
 ## Skills 🧰
@@ -18,8 +18,10 @@ Proactive | Disciplined | Organized | Critical | Problem solving
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
 ## Get in Touch ✉️
