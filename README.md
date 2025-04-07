@@ -1,6 +1,6 @@
 **`Desenvolvedor Front-End 👨🏽‍💻 `**
 
-## 🏆 Sobre Mim
+## Sobre Mim
 
 Me chamo Éverton, tenho 24 anos e tenho trilhado meu caminho na programação desde meados de 2023. Desde o primeiro "Hello World", percebi que era isso que eu queria para minha vida. A tecnologia me encantou e, desde então, mergulhei de cabeça nesse universo.
 
