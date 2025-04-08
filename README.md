@@ -1,4 +1,4 @@
-**`Desenvolvedor Front-End 👨🏽‍💻 `**
+**`Software Developer 👨🏽‍💻 `**
 
 ## Sobre Mim
 
