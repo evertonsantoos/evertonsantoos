@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Me chamo Éverton, tenho 24 anos e tenho trilhado meu caminho na programação desde meados de 2023. Desde o primeiro "Hello World", percebi que era isso que eu queria para minha vida. A tecnologia me encantou e, desde então, mergulhei de cabeça nesse universo.
+Me chamo Éverton, tenho 24 anos e tenho trilhado meu caminho na programação desde 2023. Desde o primeiro "Hello World", percebi que era isso que eu queria para minha vida. A tecnologia me encantou e, desde então, mergulhei de cabeça nesse universo.
 
 Tenho um bom domínio de HTML, CSS e JavaScript, e estou sempre buscando criar interfaces bonitas, funcionais e com um bom código por trás.
 
