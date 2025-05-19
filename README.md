@@ -1,20 +1,10 @@
 **`Software Developer 👨🏽‍💻 `**
 
-## Sobre Mim
+Desenvolvedor em formação com foco em front-end, iniciando minha jornada na programação em 2023. Possuo conhecimento sólido em HTML, CSS e JavaScript, e estou aprofundando minhas habilidades em ReactJS e TailwindCSS para criar interfaces modernas e responsivas.
 
-Me chamo Éverton, tenho 24 anos e tenho trilhado meu caminho na programação desde 2023. Desde o primeiro "Hello World", percebi que era isso que eu queria para minha vida. A tecnologia me encantou e, desde então, mergulhei de cabeça nesse universo.
+Apesar de ter iniciado Análise e Desenvolvimento de Sistemas, atualmente estudo de forma autodidata, com disciplina e dedicação, buscando sempre aplicar boas práticas de código limpo e organização.
 
-Tenho um bom domínio de HTML, CSS e JavaScript, e estou sempre buscando criar interfaces bonitas, funcionais e com um bom código por trás.
-
-Comecei a faculdade de Análise e Desenvolvimento de Sistemas, mas precisei trancar por um tempo. Mesmo assim, sigo estudando diariamente por conta própria e pretendo voltar à faculdade assim que possível. Meu grande objetivo é me tornar um desenvolvedor full-stack e conseguir trabalhar com o que eu amo.
-
-Gosto de aprender, testar ideias e vê-las ganhando vida no navegador. Cada nova linha de código é uma chance de evoluir, e eu tô só no começo dessa jornada. 🚀
-
-## 📖 O que estou estudando atualmente  
-
-🔹 **ReactJS** → Criando interfaces dinâmicas e reutilizáveis.  
-🔹 **TailwindCSS** → Estilização eficiente e responsiva.  
-🔹 **Boas práticas de desenvolvimento** → Código limpo, organização e performance.  
+Tenho paixão por aprender e resolver desafios técnicos, valorizo o trabalho em equipe e estou em constante evolução para me tornar um desenvolvedor full-stack completo. 
 
 ## 🛠️ Tecnologias e Ferramentas  
 
